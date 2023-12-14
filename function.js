@@ -69,3 +69,5 @@ function typingSimulation(text, delay, element) {
     }
   }, delay);
 }
+
+typingSimulation("Bonjour ceci est un text", 70, "typing");
