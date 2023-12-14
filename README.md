@@ -2,8 +2,8 @@
 the documentation is available in the :
 
 
-<img src="image/france.png" alt="Description de l'image" width="50"/> francais <br>
-[<img src="image/royaume-uni.png" alt="Description de l'image" width="50"/>](google.com)
+[<img src="image/france.png" alt="Description de l'image" width="50"/>](https://github.com/pouximixi0/framework/blame/a1ae38b19560cc4f766bfb343ed2e66b74cd2692/README.md#L8)
+[<img src="image/royaume-uni.png" alt="Description de l'image" width="50"/>]()
 
 ### documentation en francais
 ce framework est en devlopement pour l'instant il n'y a pas beaucoups de fonction. il va contenire des fonction utile.
