@@ -2,4 +2,4 @@
 the documentation is available in the :
 
 
-![demo](image/france.png)
+<img src="image/france.png" alt="Description de l'image" width="50"/>
