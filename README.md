@@ -2,7 +2,7 @@
 the documentation is available in the :
 
 
-[<img src="image/france.png" alt="Description de l'image" width="50"/>](https://github.com/pouximixi0/framework/blame/a1ae38b19560cc4f766bfb343ed2e66b74cd2692/README.md#L8)
+[<img src="image/france.png" alt="Description de l'image" width="50"/>](https://github.com/pouximixi0/framework/blob/a1ae38b19560cc4f766bfb343ed2e66b74cd2692/README.md#documentation-en-francais)
 [<img src="image/royaume-uni.png" alt="Description de l'image" width="50"/>]()
 
 ### documentation en francais
@@ -38,3 +38,8 @@ pour ce fair vous avec juste a integrer le lien dans une balise scritps :
 
 ```
 <img src="image/typingScripts.gif" alt="Description de l'image" width="300"/>
+
+* comment l'utiliser ? <br>
+pour l'utiliser c'est tres simple `typingSimulation(text, delay, element)` <br>
+dans text il suffit de mettre le __<u>text</u>__ que l'on ve afficher <br>
+ensuite dans delay c'est la vitesse d'affichage  <br>
