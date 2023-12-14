@@ -59,6 +59,7 @@ function deleteCookie(name) {
 // typing
 function typingSimulation(text, delay, element) {
   elementValue = document.getElementById(element);
+  elementValue.textContent = "";
   let index = 0;
   const interval = setInterval(() => {
     if (index < text.length) {
